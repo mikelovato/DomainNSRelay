@@ -1,2 +1,3 @@
-# DomainNSRelay
-DNS relay server with scientific surfing feature, More Fast and More Strong
+## DomainNSRelay
+
+> This is the work of computer network course design
