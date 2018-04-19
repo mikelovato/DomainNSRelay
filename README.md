@@ -1,21 +1,26 @@
 ## DomainNSRelay
 
 > This is the work of computer network course design
+
 > Engineering code and related documents are issued on the basis of [MIT protocol]().
 ------
 
-### 实验平台及环境
-> 实验平台: Python 3.6
-> 运行环境: Mac OS High Sierra 10.13(17A405)
-> 数据库: MySQL
-> 编译器: PyCharm CE
+### Experimental platform and environment
+
+  * Programming Language: Python 3.6
+  * Operating System: Mac OS High Sierra 10.13(17A405)
+  * DataBase: MySQL
+  * IDE: PyCharm CE
 
 ------
 
-### 架构
+### Architecture
+
 ![jiagou](https://ws4.sinaimg.cn/large/006tKfTcly1fqicx7cbd3j30ym0ket9o.jpg)
 
-* 更多请参考/report/---
+* About [more](https://github.com/Awybupt/DomainNSRelay/blob/master/report/report.pdf)
+
+* If you have any question,please Submit [Issue](https://github.com/Awybupt/DomainNSRelay/issues)
 
 ### 贡献者
 
