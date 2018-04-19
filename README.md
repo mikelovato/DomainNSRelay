@@ -22,7 +22,7 @@
 
 * If you have any question,please Submit [Issue](https://github.com/Awybupt/DomainNSRelay/issues)
 
-### 贡献者
+### Contributor
 
 * [Awybupt](https://github.com/Awybupt)
 * [Sulayman](https://github.com/sulayman-soyir)
