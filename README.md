@@ -1,8 +1,7 @@
 ## DomainNSRelay
 
-> This is the work of computer network course design
-
-> Engineering code and related documents are issued on the basis of [MIT protocol]().
+> * The contents of this repository are the homework of the computer network course design
+> * Engineering code and related documents are issued on the basis of [MIT protocol]().
 ------
 
 ### Experimental platform and environment
