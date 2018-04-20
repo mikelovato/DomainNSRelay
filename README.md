@@ -22,8 +22,5 @@
 * If you have any questions,you can submit [Issue](https://github.com/Awybupt/DomainNSRelay/issues)
 
 ### Contributor
-
 * [Awybupt](https://github.com/Awybupt)
 * [Sulayman](https://github.com/sulayman-soyir)
-
-
