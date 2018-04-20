@@ -15,7 +15,7 @@
 
 ### Architecture
 
-![jiagou](https://ws4.sinaimg.cn/large/006tKfTcly1fqicx7cbd3j30ym0ket9o.jpg)
+![jiagou](https://ws1.sinaimg.cn/large/006tKfTcly1fqiyhhweklj30gu0b30t2.jpg)
 
 * Click [HERE](https://github.com/Awybupt/DomainNSRelay/blob/master/report/report.pdf)to find out more
 
