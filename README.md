@@ -1,4 +1,4 @@
-## DomainNSRelay
+## Domain Name System Relay
 
 > * The contents of this repository are the homework of the computer network course design
 > * Engineering code and related documents are issued on the basis of [MIT protocol]().
