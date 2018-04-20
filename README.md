@@ -21,6 +21,25 @@
 
 * If you have any questions,you can submit [Issue](https://github.com/Awybupt/DomainNSRelay/issues)
 
+### How to Use
+
+* An Example Command
+
+```sh
+$ sudo python LocalServer.py -d 8.8.8.8 -t 100
+```
+
+Options
+
+```sh
+-h       Set Remote Host
+-t       Set Runing Time 
+```
+
+Demo
+
+![demo](https://ws4.sinaimg.cn/large/006tKfTcly1fqjaxqnrpbj30ft03zgls.jpg)
+
 ### Contributor
 * [Awybupt](https://github.com/Awybupt)
 * [Sulayman](https://github.com/sulayman-soyir)
