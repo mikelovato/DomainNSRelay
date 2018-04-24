@@ -32,7 +32,7 @@ $ sudo python LocalServer.py -d 8.8.8.8 -t 100
 * Options
 
 ```sh
--h       Set Remote Host
+-d       Set Remote Host
 -t       Set Runing Time 
 ```
 
