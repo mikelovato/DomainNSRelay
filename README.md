@@ -26,7 +26,7 @@
 * An Example Command
 
 ```sh
-$ sudo python LocalServer.py -d 8.8.8.8 -t 100 -s 128
+$ sudo python LocalServer.py -d 8.8.8.8 -t 100 -s 128 -a 1
 ```
 
 * Options
@@ -35,6 +35,7 @@ $ sudo python LocalServer.py -d 8.8.8.8 -t 100 -s 128
 -d       Set Remote Host
 -t       Set Runing Time
 -s       Set Dict Size
+-a       Set Simple Mode
 ```
 
 * Demo
